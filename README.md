@@ -14,6 +14,10 @@ pip install this repo.
 
 ![Ttk](https://github.com/HassanMTS/Weather-App/assets/150341521/6d8369ae-d447-448e-8b89-3abb614b32e1)
 
-All these installed will be able to run the code with no issues
+All these installed will be able to run the code with no issues, these are needed to run the weather app.
 
 ![Main start](https://github.com/HassanMTS/Weather-App/assets/150341521/180451e2-cf9f-4af7-949d-f33780497f27)
+
+Code below is the main program for the gui, button, labels and the search
+
+![buttons](https://github.com/HassanMTS/Weather-App/assets/150341521/51a44166-1723-4ec6-8872-a944d9c7146f)
