@@ -13,3 +13,7 @@ pip install this repo.
 (AND)
 
 ![Ttk](https://github.com/HassanMTS/Weather-App/assets/150341521/6d8369ae-d447-448e-8b89-3abb614b32e1)
+
+All these installed will be able to run the code with no issues
+
+![Main start](https://github.com/HassanMTS/Weather-App/assets/150341521/180451e2-cf9f-4af7-949d-f33780497f27)
