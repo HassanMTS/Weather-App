@@ -21,3 +21,6 @@ All these installed will be able to run the code with no issues, these are neede
 Code below is the main program for the gui, button, labels and the search
 
 ![buttons](https://github.com/HassanMTS/Weather-App/assets/150341521/51a44166-1723-4ec6-8872-a944d9c7146f)
+
+![buttons 2](https://github.com/HassanMTS/Weather-App/assets/150341521/98a3290f-ef50-4181-96c6-fc7a8863665c)
+
