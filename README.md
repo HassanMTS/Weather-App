@@ -37,4 +37,7 @@ Here are tests of the program working
 
 ![Weat](https://github.com/HassanMTS/Weather-App/assets/150341521/a84b5725-1dd7-45e1-aef8-2e688a515c2b)
 
-![italy](https://github.com/HassanMTS/Weather-App/assets/150341521/e6626587-2a30-4863-9de0-e55a72454cdb)
+![italy](https://github.com/HassanMTS/Weather-App/assets/150341521/e6626587-2a30-4863-9de0-e55a72454cdb) 
+
+This uses the website https://openweathermap.org/ to update the weather conditons everday, and by simply using the code i wrote, it combines both giving me the app i coded.
+
