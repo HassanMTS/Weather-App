@@ -25,7 +25,16 @@ Code below is the main program for the gui, button, labels and the search
 ![buttons 2](https://github.com/HassanMTS/Weather-App/assets/150341521/98a3290f-ef50-4181-96c6-fc7a8863665c)
 
 The code bellow makes sure the weather is live and any city can be searched.
+it retrievs user request with what city they enter, it is up to date everyday.
 
 ![Screenshot 2023-11-13 200408](https://github.com/HassanMTS/Weather-App/assets/150341521/084f5d1c-5fa5-44cc-bc61-8d08ae5f2643)
 
 ![weather](https://github.com/HassanMTS/Weather-App/assets/150341521/2a616e53-253d-4616-a118-07bc76b6f4fa)
+
+The code above, will state the temperature, city name, contry, and weather description.
+
+Here are tests of the program working
+
+![Weat](https://github.com/HassanMTS/Weather-App/assets/150341521/a84b5725-1dd7-45e1-aef8-2e688a515c2b)
+
+![italy](https://github.com/HassanMTS/Weather-App/assets/150341521/e6626587-2a30-4863-9de0-e55a72454cdb)
